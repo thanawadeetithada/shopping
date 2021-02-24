@@ -1,0 +1,15 @@
+.name {
+    display: block;
+    margin: auto;
+}
+
+.under-name {
+    font-size: 12px;
+    margin-left: 80px;
+}
+
+.mat-toolbar {
+    background-color: #92bcba;
+}
+
+
